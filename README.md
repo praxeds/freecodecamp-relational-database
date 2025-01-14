@@ -20,7 +20,7 @@ Finally, you will learn Git, the version control system, an essential tool of ev
   This is one of the required projects to earn your certification.  
   For this project, you will create a Bash script that enters information from World Cup games into PostgreSQL, then query the database for useful statistics.
 
-- **Salon Appointment Scheduler**
+- [**Salon Appointment Scheduler**](https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler) ✅
 
   This is one of the required projects to earn your certification.  
   For this project, you will create an interactive Bash program that uses PostgreSQL to track the customers and appointments for your salon.
