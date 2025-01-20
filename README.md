@@ -25,7 +25,7 @@ Finally, you will learn Git, the version control system, an essential tool of ev
   This is one of the required projects to earn your certification.  
   For this project, you will create an interactive Bash program that uses PostgreSQL to track the customers and appointments for your salon.
 
-- **Periodic Table Database**
+- [**Periodic Table Database**](https://www.freecodecamp.org/learn/relational-database/#build-a-periodic-table-database-project) ✅
 
   This is one of the required projects to earn your certification.  
   For this project, you will create a Bash script to get information about chemical elements from a periodic table database.
