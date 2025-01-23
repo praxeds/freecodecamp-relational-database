@@ -30,7 +30,7 @@ Finally, you will learn Git, the version control system, an essential tool of ev
   This is one of the required projects to earn your certification.  
   For this project, you will create a Bash script to get information about chemical elements from a periodic table database.
 
-- **Number Guessing Game**
+- [**Number Guessing Game**](https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game) ✅
 
   This is one of the required projects to earn your certification.  
   For this project, you will use Bash scripting, PostgreSQL, and Git to create a number guessing game that runs in the terminal and saves user information.
